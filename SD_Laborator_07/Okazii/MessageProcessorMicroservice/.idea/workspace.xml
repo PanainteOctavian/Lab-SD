@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f8619bf-4b54-4c17-81b3-99f1721d643e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 1/.idea/exemplul 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 1/DataFlow Sink/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 1/DataFlow Sink/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 2/Comanda/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 2/Comanda/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 2/Depozit/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 2/Depozit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor1/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor1/src/test/kotlin/com/sd/laborator/HelloTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor2/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor2/src/test/kotlin/com/sd/laborator/HelloTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor3/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Procesor3/src/test/kotlin/com/sd/laborator/HelloTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Sink/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Sink/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Sink/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Sink/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Sink/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Sink/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Sink/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Sink/src/test/kotlin/com/sd/laborator/HelloTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Sursa/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Sursa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Sursa/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Sursa/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/tema1/Tema1Sursa/src/test/kotlin/com/sd/laborator/HelloTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AuctioneerMicroservice/src/AuctioneerMicroservice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../AuctioneerMicroservice/src/AuctioneerMicroservice.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BidderMicroservice/src/BidderMicroservice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../BidderMicroservice/src/BidderMicroservice.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BiddingProcessorMicroservice/src/BiddingProcessorMicroservice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../BiddingProcessorMicroservice/src/BiddingProcessorMicroservice.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MessageProcessorMicroservice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/MessageProcessorMicroservice.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/artifacts/AuctioneerMicroservice_jar/AuctioneerMicroservice.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/artifacts/AuctioneerMicroservice_jar/AuctioneerMicroservice.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/artifacts/BidderMicroservice_jar/BidderMicroservice.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/artifacts/BidderMicroservice_jar/BidderMicroservice.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/artifacts/BiddingProcessorMicroservice_jar/BiddingProcessorMicroservice.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/artifacts/BiddingProcessorMicroservice_jar/BiddingProcessorMicroservice.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/artifacts/MessageLibrary_jar/MessageLibrary.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/artifacts/MessageLibrary_jar/MessageLibrary.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/artifacts/MessageProcessorMicroservice_jar/MessageProcessorMicroservice.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/artifacts/MessageProcessorMicroservice_jar/MessageProcessorMicroservice.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/AuctioneerMicroservice/AuctioneerMicroservice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/AuctioneerMicroservice/AuctioneerMicroservice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BidderMicroservice/BidderMicroservice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/BidderMicroservice/BidderMicroservice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BiddingProcessorMicroservice/BiddingProcessorMicroservice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/BiddingProcessorMicroservice/BiddingProcessorMicroservice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MessageLibrary/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/MessageLibrary/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MessageProcessorMicroservice/MessageProcessorMicroservice$receiveAndProcessMessages$receiveInQueueSubscription$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/MessageProcessorMicroservice/MessageProcessorMicroservice$receiveAndProcessMessages$receiveInQueueSubscription$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MessageProcessorMicroservice/MessageProcessorMicroservice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/MessageProcessorMicroservice/MessageProcessorMicroservice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../journal.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../journal.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SD_Laborator_08/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SD_Laborator_08/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SD_Laborator_08/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SD_Laborator_08/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 1/DataFlow Processor/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 1/DataFlow Processor/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 1/DataFlow Processor/src/main/kotlin/com/sd/laborator/Processor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 1/DataFlow Processor/src/main/kotlin/com/sd/laborator/Processor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 1/DataFlow Sink/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 1/DataFlow Sink/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 1/DataFlow Source/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 1/DataFlow Source/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 1/DataFlow Source/src/main/kotlin/com/sd/laborator/Source.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 1/DataFlow Source/src/main/kotlin/com/sd/laborator/Source.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 2/Client/src/main/kotlin/com/sd/laborator/Client.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 2/Client/src/main/kotlin/com/sd/laborator/Client.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 2/Comanda/src/main/kotlin/com/sd/laborator/Comanda.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 2/Comanda/src/main/kotlin/com/sd/laborator/Comanda.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 2/Depozit/src/main/kotlin/com/sd/laborator/Depozit.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 2/Depozit/src/main/kotlin/com/sd/laborator/Depozit.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 2/Facturare/src/main/kotlin/com/sd/laborator/Facturare.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SD_Laborator_09/exemplul 2/Facturare/src/main/kotlin/com/sd/laborator/Facturare.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3DczQpVkrvWnaWaiGGhppHod4Vr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/octavian/Documents/Facultate/SD/SD_Laborator_07/Okazii/MessageProcessorMicroservice",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f8619bf-4b54-4c17-81b3-99f1721d643e" name="Changes" comment="" />
+      <created>1778596132788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778596132788</updated>
+      <workItem from="1779308731239" duration="25000" />
+      <workItem from="1779353333344" duration="583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

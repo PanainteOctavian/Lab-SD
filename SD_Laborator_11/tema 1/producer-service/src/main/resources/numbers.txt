@@ -1,0 +1,21 @@
+# Fisier cu numere intregi care vor fi verificate prin ciurul lui Eratostene
+# Liniile care incep cu # sunt comentarii si vor fi ignorate
+# Liniile goale sunt ignorate
+
+7
+13
+20
+97
+100
+4
+11
+50
+37
+1
+2
+89
+120
+199
+200
+23
+24

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MessageProcessorMicroservice2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Okazii_inainte_de_ifurile_de_la_processors/out/artifacts/MessageProcessorMicroservice_jar/MessageProcessorMicroservice.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

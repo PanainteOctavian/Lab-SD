@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BiddingProcessorMicroservice">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Okazii/out/artifacts/BiddingProcessorMicroservice_jar/BiddingProcessorMicroservice.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

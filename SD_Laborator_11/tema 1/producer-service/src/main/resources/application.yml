@@ -1,0 +1,8 @@
+micronaut:
+  application:
+    name: producer-service
+  server:
+    port: 8081
+
+rabbitmq:
+  uri: amqp://guest:guest@localhost:5672

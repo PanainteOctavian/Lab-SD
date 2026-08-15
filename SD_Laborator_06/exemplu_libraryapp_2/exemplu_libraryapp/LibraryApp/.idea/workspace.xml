@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aaeeab89-547c-4d96-90d9-fe18d79942f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/AuctioneerMicroservice/.idea/AuctioneerMicroservice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/MessageProcessorMicroservice/.idea/MessageProcessorMicroservice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 1/.idea/exemplul 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 1/DataFlow Sink/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 1/DataFlow Sink/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 2/Comanda/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 2/Comanda/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 2/Depozit/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 2/Depozit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/.idea/tema1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor1/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor1/src/test/kotlin/com/sd/laborator/HelloTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor2/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor2/src/test/kotlin/com/sd/laborator/HelloTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor3/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Procesor3/src/test/kotlin/com/sd/laborator/HelloTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Sink/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Sink/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Sink/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Sink/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Sink/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Sink/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Sink/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Sink/src/test/kotlin/com/sd/laborator/HelloTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Sursa/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Sursa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Sursa/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Sursa/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema1/Tema1Sursa/src/test/kotlin/com/sd/laborator/HelloTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema2/.idea/tema2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema2/Client/Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema2/Comanda/Comanda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema2/Depozit/Depozit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema2/Facturare/Facturare.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema2/GUI/.idea/GUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/tema2/Livrare/Livrare.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_10/Okazii_v2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_10/exemplu Kafka-Python/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_10/exemplu Kafka-Python/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_10/exempluSpringKafka/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../SD_Laborator_10/exempluSpringKafka/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_05/exemplul_1/StackApp/src/main/kotlin/com/sd/laborator/components/RabbitMqConnectionFactoryComponent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_05/exemplul_1/StackApp/src/main/kotlin/com/sd/laborator/components/RabbitMqConnectionFactoryComponent.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_05/exemplul_1/StackApp/target/classes/com/sd/laborator/services/UnionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_05/exemplul_1/StackApp/target/classes/com/sd/laborator/services/UnionService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_05/exemplul_1/tkinter_gui/mq_communication.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_05/exemplul_1/tkinter_gui/mq_communication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cache/exemplu_libraryapp_CU_CACHE/LibraryApp/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../cache/exemplu_libraryapp_CU_CACHE/LibraryApp/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cache/exemplu_libraryapp_CU_CACHE/LibraryApp/.idea/dataSources/77e1a08f-d0b1-486b-8a54-e1b87556469f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../cache/exemplu_libraryapp_CU_CACHE/LibraryApp/.idea/dataSources/77e1a08f-d0b1-486b-8a54-e1b87556469f.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cache/exemplu_libraryapp_CU_CACHE/LibraryApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../cache/exemplu_libraryapp_CU_CACHE/LibraryApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exemplu_beerapp/BeerApp/target/BeerApp-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exemplu_beerapp/BeerApp/target/BeerApp-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exemplu_beerapp/BeerApp/target/BeerApp-1.0.0.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exemplu_beerapp/BeerApp/target/BeerApp-1.0.0.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exemplu_beerapp/BeerApp/target/beer.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exemplu_beerapp/BeerApp/target/beer.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exemplu_beerapp/BeerApp/target/classes/com/sd/laborator/models/Beer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exemplu_beerapp/BeerApp/target/classes/com/sd/laborator/models/Beer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exemplu_beerapp/BeerAppCLI/env/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exemplu_beerapp/BeerAppCLI/env/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/77e1a08f-d0b1-486b-8a54-e1b87556469f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/77e1a08f-d0b1-486b-8a54-e1b87556469f.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/AuctioneerMicroservice/src/AuctioneerMicroservice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/AuctioneerMicroservice/src/AuctioneerMicroservice.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/BidderMicroservice/src/BidderMicroservice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/BidderMicroservice/src/BidderMicroservice.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/BiddingProcessorMicroservice/src/BiddingProcessorMicroservice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/BiddingProcessorMicroservice/src/BiddingProcessorMicroservice.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/MessageProcessorMicroservice/src/MessageProcessorMicroservice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/MessageProcessorMicroservice/src/MessageProcessorMicroservice.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/out/artifacts/AuctioneerMicroservice_jar/AuctioneerMicroservice.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/out/artifacts/AuctioneerMicroservice_jar/AuctioneerMicroservice.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/out/artifacts/BidderMicroservice_jar/BidderMicroservice.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/out/artifacts/BidderMicroservice_jar/BidderMicroservice.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/out/artifacts/BiddingProcessorMicroservice_jar/BiddingProcessorMicroservice.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/out/artifacts/BiddingProcessorMicroservice_jar/BiddingProcessorMicroservice.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/out/artifacts/MessageLibrary_jar/MessageLibrary.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/out/artifacts/MessageLibrary_jar/MessageLibrary.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/out/artifacts/MessageProcessorMicroservice_jar/MessageProcessorMicroservice.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/out/artifacts/MessageProcessorMicroservice_jar/MessageProcessorMicroservice.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/out/production/AuctioneerMicroservice/AuctioneerMicroservice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/out/production/AuctioneerMicroservice/AuctioneerMicroservice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/out/production/BidderMicroservice/BidderMicroservice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/out/production/BidderMicroservice/BidderMicroservice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/out/production/BiddingProcessorMicroservice/BiddingProcessorMicroservice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/out/production/BiddingProcessorMicroservice/BiddingProcessorMicroservice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/out/production/MessageLibrary/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/out/production/MessageLibrary/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/out/production/MessageProcessorMicroservice/MessageProcessorMicroservice$receiveAndProcessMessages$receiveInQueueSubscription$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/out/production/MessageProcessorMicroservice/MessageProcessorMicroservice$receiveAndProcessMessages$receiveInQueueSubscription$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/out/production/MessageProcessorMicroservice/MessageProcessorMicroservice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_07/Okazii/out/production/MessageProcessorMicroservice/MessageProcessorMicroservice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_07/journal.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_07/journal.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_08/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_08/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_08/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_08/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 1/DataFlow Processor/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 1/DataFlow Processor/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 1/DataFlow Processor/src/main/kotlin/com/sd/laborator/Processor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 1/DataFlow Processor/src/main/kotlin/com/sd/laborator/Processor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 1/DataFlow Sink/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 1/DataFlow Sink/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 1/DataFlow Source/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 1/DataFlow Source/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 1/DataFlow Source/src/main/kotlin/com/sd/laborator/Source.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 1/DataFlow Source/src/main/kotlin/com/sd/laborator/Source.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 2/Client/src/main/kotlin/com/sd/laborator/Client.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 2/Client/src/main/kotlin/com/sd/laborator/Client.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 2/Comanda/src/main/kotlin/com/sd/laborator/Comanda.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 2/Comanda/src/main/kotlin/com/sd/laborator/Comanda.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 2/Depozit/src/main/kotlin/com/sd/laborator/Depozit.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 2/Depozit/src/main/kotlin/com/sd/laborator/Depozit.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 2/Facturare/src/main/kotlin/com/sd/laborator/Facturare.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_09/exemplul 2/Facturare/src/main/kotlin/com/sd/laborator/Facturare.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_10/Auctioneer_Docker/.idea/Auctioneer_Docker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_10/Auctioneer_Docker/.idea/Auctioneer_Docker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_10/Auctioneer_Docker/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_10/Auctioneer_Docker/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_10/Auctioneer_Docker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_10/Auctioneer_Docker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_10/MonitorizareMicroservicii/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_10/MonitorizareMicroservicii/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_10/MonitorizareMicroservicii/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_10/MonitorizareMicroservicii/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_10/MonitorizareMicroservicii/src/main/kotlin/com/sd/laborator/KafkaMonitor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_10/MonitorizareMicroservicii/src/main/kotlin/com/sd/laborator/KafkaMonitor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_10/MonitorizareMicroservicii/src/main/kotlin/com/sd/laborator/MonitoringApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_10/MonitorizareMicroservicii/src/main/kotlin/com/sd/laborator/MonitoringApplication.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_10/Okazii_v2/.idea/Okazii_v2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_10/Okazii_v2/.idea/Okazii_v2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_10/Okazii_v2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_10/Okazii_v2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_10/Okazii_v2/Bidder.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_10/Okazii_v2/Bidder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_10/Okazii_v2/MessageProcessor.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_10/Okazii_v2/MessageProcessor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_10/Okazii_v2/PrepareAuction.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_10/Okazii_v2/PrepareAuction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_10/Resources/apache-kafka-on-k8s/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_10/Resources/apache-kafka-on-k8s/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_10/exemplu Kafka-Python/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_10/exemplu Kafka-Python/.idea/exemplu Kafka-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_10/exemplu Kafka-Python/.idea/exemplu Kafka-Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_10/exemplu Kafka-Python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_10/exemplu Kafka-Python/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_10/exemplu Kafka-Python/exemplu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_10/exempluSpringKafka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_10/exempluSpringKafka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/book-example-gradle/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/book-example-gradle/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/book-example-gradle/build-local.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/book-example-gradle/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/book-example-gradle/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/book-example-gradle/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/book-example-gradle/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/book-example-gradle/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/book-example-gradle/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/book-example-gradle/micronaut-cli.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/book-example-gradle/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/book-example-gradle/src/main/kotlin/com/sd/laborator/Application.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/book-example-gradle/src/main/kotlin/com/sd/laborator/Book.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/book-example-gradle/src/main/kotlin/com/sd/laborator/BookRequestHandler.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/book-example-gradle/src/main/kotlin/com/sd/laborator/BookSaved.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/book-example-gradle/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/book-example-gradle/src/main/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/book-example-gradle/src/test/kotlin/com/sd/laborator/BookRequestHandlerTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/book-example-maven/src/main/kotlin/com/sd/laborator/BookRequestHandler.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_11/book-example-maven/src/main/kotlin/com/sd/laborator/BookRequestHandler.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/book-example-maven/src/test/kotlin/com/sd/laborator/BookRequestHandlerTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_11/book-example-maven/src/test/kotlin/com/sd/laborator/BookRequestHandlerTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-gradle/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-gradle/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-gradle/build-local.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-gradle/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-gradle/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-gradle/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-gradle/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-gradle/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-gradle/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-gradle/micronaut-cli.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-gradle/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-gradle/src/main/kotlin/com/sd/laborator/Application.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-gradle/src/main/kotlin/com/sd/laborator/EratosteneFunction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-gradle/src/main/kotlin/com/sd/laborator/EratosteneRequest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-gradle/src/main/kotlin/com/sd/laborator/EratosteneResponse.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-gradle/src/main/kotlin/com/sd/laborator/EratosteneSieveService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-gradle/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-gradle/src/main/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-maven/src/main/kotlin/com/sd/laborator/Application.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-maven/src/main/kotlin/com/sd/laborator/Application.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-maven/src/main/kotlin/com/sd/laborator/EratosteneFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-maven/src/main/kotlin/com/sd/laborator/EratosteneFunction.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-maven/src/main/kotlin/com/sd/laborator/EratosteneRequest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-maven/src/main/kotlin/com/sd/laborator/EratosteneRequest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-maven/src/main/kotlin/com/sd/laborator/EratosteneResponse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-maven/src/main/kotlin/com/sd/laborator/EratosteneResponse.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-maven/src/main/kotlin/com/sd/laborator/EratosteneSieveService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-maven/src/main/kotlin/com/sd/laborator/EratosteneSieveService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-maven/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_11/eratostene-maven/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/exemplu-micronaut-gradle/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/exemplu-micronaut-gradle/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/exemplu-micronaut-gradle/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/exemplu-micronaut-gradle/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/exemplu-micronaut-gradle/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/exemplu-micronaut-gradle/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/exemplu-micronaut-gradle/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/exemplu-micronaut-gradle/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/exemplu-micronaut-gradle/micronaut-cli.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/exemplu-micronaut-gradle/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/exemplu-micronaut-gradle/src/main/kotlin/com/sd/laborator/Application.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/exemplu-micronaut-gradle/src/main/kotlin/com/sd/laborator/HelloController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/exemplu-micronaut-gradle/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/exemplu-micronaut-gradle/src/main/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/exemplu-micronaut-gradle/src/test/kotlin/com/sd/laborator/ExempluMicronautGradleTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../SD_Laborator_11/exemplu-micronaut-maven/src/main/kotlin/com/sd/laborator/Application.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../SD_Laborator_11/exemplu-micronaut-maven/src/main/kotlin/com/sd/laborator/Application.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../kotlin archetype jvm !!! MAVEN CENTRAL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab2/JEE-App/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lab2/JEE-App/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab2/instr_creare_studenti db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab2/studenti.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lab2/studenti.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/JEE-Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/src/main/java/AppInitListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/src/main/java/Exportjsonservlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/src/main/java/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/src/main/java/ProcessStudentServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/src/main/java/ReadStudentServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/src/main/java/StudentServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/src/main/java/UpdateStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/src/main/java/beans/StudentBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/src/main/java/dao/Studentdao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/src/main/webapp/delete-success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/src/main/webapp/formular.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/src/main/webapp/info-student.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/src/main/webapp/student-form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/src/main/webapp/student-list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/src/main/webapp/update-student.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/WEB-INF/classes/AppInitListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/WEB-INF/classes/Exportjsonservlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/WEB-INF/classes/HelloServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/WEB-INF/classes/ProcessStudentServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/WEB-INF/classes/ReadStudentServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/WEB-INF/classes/StudentServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/WEB-INF/classes/UpdateStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/WEB-INF/classes/beans/StudentBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/WEB-INF/classes/dao/Studentdao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/WEB-INF/lib/jackson-annotations-2.11.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/WEB-INF/lib/jackson-core-2.11.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/WEB-INF/lib/jackson-databind-2.11.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/WEB-INF/lib/jackson-dataformat-xml-2.11.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/WEB-INF/lib/jackson-module-jaxb-annotations-2.11.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/WEB-INF/lib/jakarta.activation-api-1.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/WEB-INF/lib/jakarta.xml.bind-api-2.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/WEB-INF/lib/slf4j-api-1.7.36.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/WEB-INF/lib/sqlite-jdbc-3.44.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/WEB-INF/lib/stax2-api-4.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/WEB-INF/lib/woodstox-core-6.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/delete-success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/formular.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/info-student.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/student-form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/student-list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/JEE-Studenti/update-student.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/classes/AppInitListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/classes/Exportjsonservlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/classes/HelloServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/classes/ProcessStudentServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/classes/ReadStudentServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/classes/StudentServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/classes/UpdateStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/classes/beans/StudentBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/classes/dao/Studentdao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/JEE-Test/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/SD_Laborator_01/studenti.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/.idea/lab2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/ear/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/ejbs/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/ejbs/src/main/java/ejb/BankAccountBeanImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/ejbs/src/main/java/ejb/StatelessSessionBeanImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/ejbs/src/main/java/ejb/StudentEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/ejbs/src/main/java/interfaces/BankAccountBeanRemote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/ejbs/src/main/java/interfaces/StatelessSessionBeanRemote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/ejbs/src/main/java/monitorization/DatabaseMonitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/ejbs/src/main/resources/META-INF/ejb-jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/ejbs/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/primary-source/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/projects/logging/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/projects/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/servlets/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/servlets/servlet/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/servlets/servlet/src/main/java/AlarmViewServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/servlets/servlet/src/main/java/DeleteStudentServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/servlets/servlet/src/main/java/FetchStudentListServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/servlets/servlet/src/main/java/MonitorControlServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/servlets/servlet/src/main/java/ProcessBankOperationServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/servlets/servlet/src/main/java/ProcessStudentServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/servlets/servlet/src/main/java/UpdateStudentServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/servlets/servlet/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/servlets/servlet/src/main/webapp/delete.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/servlets/servlet/src/main/webapp/formular.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/servlets/servlet/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/servlets/servlet/src/main/webapp/update.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-App/site/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-Client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-Client/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-Client/.idea/libraries/gf_client.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-Client/.idea/libraries/interfaces.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-Client/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-Client/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-Client/JEE-Client.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-Client/interfaces.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/JEE-Client/src/JEEClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/ejb-jar_3_0.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/ejb-jar_3_1.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/instr_creare_studenti db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/labsd02.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab2/studenti.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/geo_blacklist.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/src/main/kotlin/org/example/WeatherAppApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/src/main/kotlin/org/example/config/WebConfig.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/src/main/kotlin/org/example/controllers/WeatherAppController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/src/main/kotlin/org/example/interceptors/GeoFilterInterceptor.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/src/main/kotlin/org/example/interfaces/LocationSearchInterface.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/src/main/kotlin/org/example/interfaces/WeatherForecastInterface.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/src/main/kotlin/org/example/interfaces/WeatherOrchestrationInterface.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/src/main/kotlin/org/example/pojo/WeatherForecastData.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/src/main/kotlin/org/example/services/GeoBlacklistService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/src/main/kotlin/org/example/services/GeoFilterService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/src/main/kotlin/org/example/services/LocationSearchService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/src/main/kotlin/org/example/services/TimeService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/src/main/kotlin/org/example/services/WeatherForecastService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/src/main/kotlin/org/example/services/WeatherOrchestrationService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/src/test/kotlin/org/example/weatherapp/WeatherAppApplicationTests.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/classes/META-INF/WeatherApp.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/classes/org/example/WeatherAppApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/classes/org/example/WeatherAppApplicationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/classes/org/example/config/WebConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/classes/org/example/controllers/WeatherAppController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/classes/org/example/interceptors/GeoFilterInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/classes/org/example/interfaces/LocationSearchInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/classes/org/example/interfaces/WeatherForecastInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/classes/org/example/interfaces/WeatherOrchestrationInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/classes/org/example/pojo/WeatherForecastData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/classes/org/example/services/GeoBlacklistService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/classes/org/example/services/GeoFilterService$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/classes/org/example/services/GeoFilterService$GeoCheckResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/classes/org/example/services/GeoFilterService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/classes/org/example/services/LocationSearchService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/classes/org/example/services/TimeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/classes/org/example/services/WeatherForecastService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/classes/org/example/services/WeatherOrchestrationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/test-classes/META-INF/WeatherApp.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/1/SD-LAB-main/lab3-WeatherApp/target/test-classes/org/example/weatherapp/WeatherAppApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/lab/laborator/src/main/kotlin/org/example/HelloController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lab3/lab/laborator/src/main/kotlin/org/example/HelloController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/lab/laborator/src/main/kotlin/org/example/HelloService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lab3/lab/laborator/src/main/kotlin/org/example/HelloService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/lab3-WeatherApp/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/lab3-WeatherApp/src/main/kotlin/org/example/controllers/WeatherAppController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lab3/lab3-WeatherApp/src/main/kotlin/org/example/controllers/WeatherAppController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/lab3-WeatherApp/src/main/kotlin/org/example/services/GeoFilterService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lab3/lab3-WeatherApp/src/main/kotlin/org/example/services/GeoFilterService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/lab3-WeatherApp/target/classes/org/example/controllers/WeatherAppController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lab3/lab3-WeatherApp/target/classes/org/example/controllers/WeatherAppController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/lab3-WeatherApp/target/classes/org/example/services/GeoFilterService$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lab3/lab3-WeatherApp/target/classes/org/example/services/GeoFilterService$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/lab3-WeatherApp/target/classes/org/example/services/GeoFilterService$GeoCheckResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lab3/lab3-WeatherApp/target/classes/org/example/services/GeoFilterService$GeoCheckResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../lab3/lab3-WeatherApp/target/classes/org/example/services/GeoFilterService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lab3/lab3-WeatherApp/target/classes/org/example/services/GeoFilterService.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="1XdGO16bIDTKiOUFeGXdY0FkrhX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.LibraryApp [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.LibraryApp [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.LibraryApp [org.springframework.boot:spring-boot-maven-plugin:2.3.12.RELEASE:run].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.LibraryApp [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.LibraryApp [spring-boot:run].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/octavian/Documents/Facultate/SD/SD_Laborator_06/cache/exemplu_libraryapp_CU_CACHE/LibraryApp&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="K2MoveDeclarationsDialog.RECENT_PACKAGE_KEY">
+      <recent name="com.sd.laborator.persistence.interfaces" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.LibraryApp [spring-boot:run]">
+    <configuration name="LibraryAppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sd.laborator.LibraryAppKt" />
+      <module name="LibraryApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryApp [spring-boot:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:run" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="LibraryApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="LibraryApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sd.laborator.LibraryApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.LibraryAppKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aaeeab89-547c-4d96-90d9-fe18d79942f5" name="Default Changelist" comment="" />
+      <created>1581368521262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581368521262</updated>
+      <workItem from="1781624206754" duration="183000" />
+      <workItem from="1781625253376" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

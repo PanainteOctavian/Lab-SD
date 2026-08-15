@@ -1,0 +1,30 @@
+1. verif docker etcd
+    docker ps | grep etcd
+
+2. pornire kafka(de modif in /opt/kafka/config/server.propertiese eventual)
+    sudo -E /opt/kafka/bin/kafka-server-start.sh -daemon /opt/kafka/config/server.properties
+    
+3. verificare kafka
+    ps -ef | grep kafka
+    => ditamai carnatu 
+
+4. verificare topicuri(CTRL+C pt iesire)
+     sudo -E /opt/kafka/bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic NUME_TOPIC --from-beginning
+
+---
+
+exempluSpringKafka Kotlin
+    exec din Intellij + curl -X PUT http://localhost:8080/publish --header "Content-Type:text/plain" --data-raw "mesaj test 1" si ar tb sa apara in consola din Intellij
+
+---
+
+MonitorizareMicroservicii Kotlin
+    doar executi aplicatia din Intellij DUPA CE INCEPI LICITATIA(adica bidder, auctioneer etc.)
+
+---
+
+Okazii_v2 Python
+1.  /home/octavian/Documents/Facultate/SD/SD_Laborator_10/Okazii_v2$ python3 -m venv okazii_env
+    /home/octavian/Documents/Facultate/SD/SD_Laborator_10/Okazii_v2$ source okazii_env/bin/activate
+    (okazii_env)/home/octavian/Documents/Facultate/SD/SD_Laborator_10/Okazii_v2$ python3 PrepareAuction.py si celelalte din cele 5 terminale
+    !!! de vazut si in cod cum se leaga de kafka -> price_topic si notify_message_processor_topic

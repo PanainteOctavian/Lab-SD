@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MessageProcessorMicroservice">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Okazii/out/artifacts/MessageProcessorMicroservice_jar/MessageProcessorMicroservice.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

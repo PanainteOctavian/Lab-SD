@@ -1,0 +1,121 @@
+// dataflow 1.2.0.RELEASE log opened at 2026-05-10 17:26:28
+// dataflow 1.2.0.RELEASE log opened at 2026-05-10 17:26:45
+app register --name time-source --type source --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/exemplul%201/DataFlow%20Source/target/DataFlowSource-1.0-SNAPSHOT.jar
+app register --name time-processor --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/exemplul%201/DataFlow%20Processor/target/DataFlowProcessor-1.0-SNAPSHOT.jar
+app register --name logging-sink --type sink --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/exemplul%201/DataFlow%20Sink/target/DataFlowSink-1.0-SNAPSHOT.jar
+stream create --name time-to-log --definition 'time-source | time-processor | logging-sink'
+stream deploy --name time-to-log
+stream undeploy --name time-to-log
+stream deploy --name time-to-log
+app register --name pb2-source --type source --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/exemplul%202/Client/target/Client-1.0-SNAPSHOT.jar
+app register --name pb2-procesor1 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/exemplul%202/Comanda/target/Comanda-1.0-SNAPSHOT.jar
+app register --name pb2-procesor2 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/exemplul%202/Depozit/target/Depozit-1.0-SNAPSHOT.jar
+app register --name pb2-procesor3 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/exemplul%202/Facturare/target/Facturare-1.0-SNAPSHOT.jar
+app register --name pb2-sink --type sink --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/exemplul%202/Livrare/target/Livrare-1.0-SNAPSHOT.jar
+// [failed] stream create --name pb2-v1 --definition 'pb2-source | pb1-procesor1 | pb2-procesor2 | pb2-procesor3 | pb2-sink'
+// [failed] app register --name pb2-procesor1 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/exemplul%202/Depozit/target/Depozit-1.0-SNAPSHOT.jar
+stream create --name pb2-v1 --definition 'pb2-source | pb2-procesor1 | pb2-procesor2 | pb2-procesor3 | pb2-sink'
+stream deploy --name pb2-v1
+app import --uri https://dataflow.spring.io/rabbitmq-docker-latest
+app register --name tema1-source --type source --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Sursa/target/Tema1Sursa-1.0-SNAPSHOT.jar
+app register --name tema1-procesor1 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Procesor1/target/Tema1Procesor1-1.0-SNAPSHOT.jar
+app unregister --name tema1-source --type source
+app register --name tema1-source --type source --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Sursa/target/Tema1Sursa-1.0-SNAPSHOT.jar
+app register --name tema1-procesor2 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Procesor2/target/Tema1Procesor2-1.0-SNAPSHOT.jar
+app register --name tema1-procesor3 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Procesor3/target/Tema1Procesor3-1.0-SNAPSHOT.jar
+app register --name tema1-sink --type sink --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Sink/target/Tema1Sink-1.0-SNAPSHOT.jar
+stream create --name tema1 --definition 'tema1-source | tema1-procesor1 | tema1-procesor2 | tema1-procesor3 | tema1-sink'
+stream deploy tema1
+// [failed] app register --name tema1-source --type source --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Sursa/target/Tema1Sursa-1.0-SNAPSHOT.jar
+// [failed] app unregister --name tema1-source --type source
+stream undeploy --name tema1
+stream deploy --name tema1
+app list
+// dataflow 1.2.0.RELEASE log opened at 2026-05-10 21:09:04
+app register --name tema1-source --type source --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Sursa/target/Tema1Sursa-1.0-SNAPSHOT.jar
+app register --name tema1-procesor1 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Procesor1/target/Tema1Procesor1-1.0-SNAPSHOT.jar
+app register --name tema1-procesor2 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Procesor2/target/Tema1Procesor2-1.0-SNAPSHOT.jar
+app register --name tema1-procesor3 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Procesor3/target/Tema1Procesor3-1.0-SNAPSHOT.jar
+app register --name tema1-sink --type sink --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Sink/target/Tema1Sink-1.0-SNAPSHOT.jar
+stream create --name tema1 --definition 'tema1-source | tema1-procesor1 | tema1-procesor2 | tema1-procesor3 | tema1-sink'
+stream deploy --name tema1
+// dataflow 1.2.0.RELEASE log opened at 2026-05-12 10:13:51
+// dataflow 1.2.0.RELEASE log opened at 2026-05-12 10:14:48
+app register --name tema1-source --type source --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Sursa/target/Tema1Sursa-1.0-SNAPSHOT.jar
+app register --name tema1-procesor1 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Procesor1/target/Tema1Procesor1-1.0-SNAPSHOT.jar
+app register --name tema1-procesor2 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Procesor2/target/Tema1Procesor2-1.0-SNAPSHOT.jar
+app register --name tema1-procesor3 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Procesor3/target/Tema1Procesor3-1.0-SNAPSHOT.jar
+app register --name tema1-sink --type sink --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Sink/target/Tema1Sink-1.0-SNAPSHOT.jar
+stream create --name tema1 --definition 'tema1-source | tema1-procesor1 | tema1-procesor2 | tema1-procesor3 | tema1-sink'
+stream deploy --name tema1
+stream undeploy --name tema1
+app register --name tema2-source --type source --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema2/Client/target/Client-1.0-SNAPSHOT.jar
+stream create --name tema2 --definition 'tema2-source | tema1-procesor1 | tema1-procesor2 | tema1-procesor3 | tema1-sink'
+stream undeploy --name tema1
+stream deploy --name tema2
+stream undeploy --name tema2
+// dataflow 1.2.0.RELEASE log opened at 2026-05-12 11:54:32
+// [failed] app register --name tema2-source --type source --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema2/Client/target/Client-1.0-SNAPSHOT.jar
+stream undeploy --name tema2
+stream deploy --name tema2
+stream undeploy --name tema2
+stream deploy --name tema2
+// dataflow 1.2.0.RELEASE log opened at 2026-05-12 11:59:13
+stream undeploy --name tema2
+// [failed] app unregister --name tema2-source --type source
+app unregister --name tema2-source --type source
+app register --name tema2-source --type source --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema2/Client/target/Client-1.0-SNAPSHOT.jar
+app register --name tema2-procesor1 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema2/Comanda/target/Comanda-1.0-SNAPSHOT.jar
+app register --name tema2-procesor2 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema2/Depozit/target/Depozit-1.0-SNAPSHOT.jar
+app register --name tema2-procesor3 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema2/Facturare/target/Facturare-1.0-SNAPSHOT.jar
+app register --name tema2-sink --type sink --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema2/Livrare/target/Livrare-1.0-SNAPSHOT.jar
+stream create --name tema2 --definition 'tema2-source | tema2-procesor1 | tema2-procesor2 | tema2-procesor3 | tema2-sink'
+stream deploy --name tema2
+stream undeploy --name tema2
+stream deploy --name tema2
+stream undeploy --name tema2
+stream deploy --name tema2
+stream undeploy --name tema2
+stream deploy --name tema2
+stream undeploy --name tema2
+stream deploy --name tema2
+stream undeploy --name tema2
+// dataflow 1.2.0.RELEASE log opened at 2026-05-12 16:13:37
+app register --name tema2-source --type source --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema2/Client/target/Client-1.0-SNAPSHOT.jar
+app register --name tema2-procesor1 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema2/Comanda/target/Comanda-1.0-SNAPSHOT.jar
+app register --name tema2-procesor2 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema2/Depozit/target/Depozit-1.0-SNAPSHOT.jar
+app register --name tema2-procesor3 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema2/Facturare/target/Facturare-1.0-SNAPSHOT.jar
+app register --name tema2-sink --type sink --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema2/Livrare/target/Livrare-1.0-SNAPSHOT.jar
+// [failed] stream deploy --name tema2
+stream create --name tema2 --definition 'tema2-source | tema2-procesor1 | tema2-procesor2 | tema2-procesor3 | tema2-sink'
+stream deploy --name tema2
+app register --name tema1-source --type source --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Sursa/target/Tema1Sursa-1.0-SNAPSHOT.jar
+app register --name tema1-procesor1 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Procesor1/target/Tema1Procesor1-1.0-SNAPSHOT.jar
+// [failed] app register --name tema2-procesor2 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema2/Depozit/target/Depozit-1.0-SNAPSHOT.jar
+// [failed] app register --name tema1-source --type source --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Sursa/target/Tema1Sursa-1.0-SNAPSHOT.jar
+// [failed] app register --name tema1-procesor1 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Procesor1/target/Tema1Procesor1-1.0-SNAPSHOT.jar
+app register --name tema1-procesor2 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Procesor2/target/Tema1Procesor2-1.0-SNAPSHOT.jar
+// [failed] app register --name tema2-procesor3 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema2/Facturare/target/Facturare-1.0-SNAPSHOT.jar
+app register --name tema1-procesor3 --type processor --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Procesor3/target/Tema1Procesor3-1.0-SNAPSHOT.jar
+app register --name tema1-sink --type sink --uri file:////home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Sink/target/Tema1Sink-1.0-SNAPSHOT.jar
+stream create --name tema1 --definition 'tema1-source | tema1-procesor1 | tema1-procesor2 | tema1-procesor3 | tema1-sink'
+stream deploy --name tema1
+// dataflow 1.2.0.RELEASE log opened at 2026-06-16 23:26:47
+app register --name time-source --type source --uri file:///home/octavian/Documents/Facultate/SD/SD_Laborator_09/exemplul%201/DataFlow%20Source/target/DataFlowSource-1.0-SNAPSHOT.jar
+app register --name time-processor --type processor --uri file:///home/octavian/Documents/Facultate/SD/SD_Laborator_09/exemplul%201/DataFlow%20Processor/target/DataFlowProcessor-1.0-SNAPSHOT.jar
+app register --name time-sink --type sink --uri file:///home/octavian/Documents/Facultate/SD/SD_Laborator_09/exemplul%201/DataFlow%20Sink/target/DataFlowSink-1.0-SNAPSHOT.jar
+// [failed] stream create --name time-to-log --definition 'time-source | timeprocessor | logging-sink'
+// [failed] stream create --name time-to-log --definition 'time-source | time-processor | logging-sink'
+// [failed] stream create --name time-to-log --definition 'time-source | time-processor | logging-sink'
+app unregister --name time-sink --type sink
+app register --name logging-sink --type sink --uri file:///home/octavian/Documents/Facultate/SD/SD_Laborator_09/exemplul%201/DataFlow%20Sink/target/DataFlowSink-1.0-SNAPSHOT.jar
+stream create --name time-to-log --definition 'time-source | time-processor | logging-sink'
+stream deploy --name time-to-log
+// dataflow 1.2.0.RELEASE log opened at 2026-06-17 00:00:16
+app register --name time-source --type source --uri file:///home/octavian/Documents/Facultate/SD/SD_Laborator_09/exemplul%201/DataFlow%20Source/target/DataFlowSource-1.0-SNAPSHOT.jar
+app register --name time-processor --type processor --uri file:///home/octavian/Documents/Facultate/SD/SD_Laborator_09/exemplul%201/DataFlow%20Processor/target/DataFlowProcessor-1.0-SNAPSHOT.jar
+app register --name logging-sink --type sink --uri file:///home/octavian/Documents/Facultate/SD/SD_Laborator_09/exemplul%201/DataFlow%20Sink/target/DataFlowSink-1.0-SNAPSHOT.jar
+stream create --name time-to-log --definition 'time-source | time-processor | logging-sink'
+stream deploy --name time-to-log
+stream undeploy --name time-to-log
+stream deploy --name time-to-log

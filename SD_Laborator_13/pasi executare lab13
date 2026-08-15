@@ -1,0 +1,27 @@
+1. verif docker etcd
+    docker ps | grep etcd
+
+2. pornire kafka(de modif in /opt/kafka/config/server.propertiese eventual)
+    sudo -E /opt/kafka/bin/kafka-server-start.sh -daemon /opt/kafka/config/server.properties
+    
+3. verificare kafka
+    ps -ef | grep kafka
+    => ditamai carnatu 
+
+4. verificare topicuri(CTRL+C pt iesire)
+     sudo -E /opt/kafka/bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic NUME_TOPIC --from-beginning
+
+---
+tema1 lab13
+
+1.  /home/octavian/Documents/Facultate/SD/SD_Laborator_13/tema1$ python3 -m venv env
+    /home/octavian/Documents/Facultate/SD/SD_Laborator_13/tema1$ source env/bin/activate
+    (env)/home/octavian/Documents/Facultate/SD/SD_Laborator_13/tema1$ python3 run_producers.py
+
+2. verificare topicuri(CTRL+C pt iesire)
+     sudo -E /opt/kafka/bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic NUME_TOPIC --from-beginning
+
+---
+SparkExample lab13
+
+doar apesi pe sageata verde de run din intellij

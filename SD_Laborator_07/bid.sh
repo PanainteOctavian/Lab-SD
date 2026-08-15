@@ -1,0 +1,1 @@
+java -jar Okazii/out/artifacts/BiddingProcessorMicroservice_jar/BiddingProcessorMicroservice.jar

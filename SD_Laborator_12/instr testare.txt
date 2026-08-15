@@ -1,0 +1,7 @@
+hadoop jar $HADOOP_HOME/share/hadoop/tools/lib/hadoop-streaming*.jar \
+-input /user/hduser/input \
+-output /user/hduser/output \
+-mapper /home/hduser/exemplu_mapreduce/mapper.py \
+-reducer /home/hduser/exemplu_mapreduce/reducer.py \
+-file /home/hduser/exemplu_mapreduce/mapper.py \
+-file /home/hduser/exemplu_mapreduce/reducer.py

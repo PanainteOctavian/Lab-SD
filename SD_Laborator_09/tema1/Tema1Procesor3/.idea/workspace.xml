@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1457a383-dcfb-47e1-867e-31fc88d10734" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../exemplul 1/.idea/exemplul 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exemplul 1/DataFlow Sink/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exemplul 1/DataFlow Sink/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exemplul 2/Comanda/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exemplul 2/Comanda/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exemplul 2/Depozit/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exemplul 2/Depozit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Procesor1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Procesor1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Procesor1/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Procesor1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Procesor1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Procesor1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Procesor1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Procesor1/src/test/kotlin/com/sd/laborator/HelloTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Procesor2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Procesor2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Procesor2/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Procesor2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Procesor2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Procesor2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Procesor2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Procesor2/src/test/kotlin/com/sd/laborator/HelloTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/com/sd/laborator/HelloTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Sink/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Sink/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Sink/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Sink/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Sink/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Sink/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Sink/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Sink/src/test/kotlin/com/sd/laborator/HelloTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Sursa/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Sursa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Sursa/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Sursa/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema1Sursa/src/test/kotlin/com/sd/laborator/HelloTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exemplul 1/DataFlow Processor/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../exemplul 1/DataFlow Processor/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exemplul 1/DataFlow Processor/src/main/kotlin/com/sd/laborator/Processor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../exemplul 1/DataFlow Processor/src/main/kotlin/com/sd/laborator/Processor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exemplul 1/DataFlow Sink/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../exemplul 1/DataFlow Sink/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exemplul 1/DataFlow Source/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../exemplul 1/DataFlow Source/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exemplul 1/DataFlow Source/src/main/kotlin/com/sd/laborator/Source.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../exemplul 1/DataFlow Source/src/main/kotlin/com/sd/laborator/Source.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exemplul 2/Client/src/main/kotlin/com/sd/laborator/Client.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../exemplul 2/Client/src/main/kotlin/com/sd/laborator/Client.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exemplul 2/Comanda/src/main/kotlin/com/sd/laborator/Comanda.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../exemplul 2/Comanda/src/main/kotlin/com/sd/laborator/Comanda.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exemplul 2/Depozit/src/main/kotlin/com/sd/laborator/Depozit.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../exemplul 2/Depozit/src/main/kotlin/com/sd/laborator/Depozit.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exemplul 2/Facturare/src/main/kotlin/com/sd/laborator/Facturare.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../exemplul 2/Facturare/src/main/kotlin/com/sd/laborator/Facturare.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3DXeZRdkLhsWHvgYnYHX5YIsj6h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.Tema1Procesor3 [clean].executor": "Run",
+    "Maven.Tema1Procesor3 [compile].executor": "Run",
+    "Maven.Tema1Procesor3 [package].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/octavian/Documents/Facultate/SD/SD_Laborator_09/tema1/Tema1Sink",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1457a383-dcfb-47e1-867e-31fc88d10734" name="Changes" comment="" />
+      <created>1778432900281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778432900281</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AuctioneerMicroservice">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Okazii/out/artifacts/AuctioneerMicroservice_jar/AuctioneerMicroservice.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,8 @@
+micronaut:
+  application:
+    name: consumer-function
+  server:
+    port: 8082
+
+rabbitmq:
+  uri: amqp://guest:guest@localhost:5672

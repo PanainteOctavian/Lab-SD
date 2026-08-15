@@ -1,0 +1,1 @@
+java -jar Okazii/out/artifacts/MessageProcessorMicroservice_jar/MessageProcessorMicroservice.jar
